@@ -2,13 +2,13 @@
 Strona THE POLISH CHAPTER OF ASSOCIATION FOR INFORMATION SYSTEMS – PLAIS
 
 DO ZROBIENIA:
-- Wszystkie podstrony + trzeba zrobić rozwijane menu w którym będzie można to wszystko wybrać + nie musicie się przejmować kolorami niczego bo wszystko jest w navbar.css:
--- W członkach - Obecni Członkowie i Founding Members cokolwiek by to znaczyło + Rada Nadzorcza
--- W wydarzeniach PLAIS - EuroSymposium, ICTM, EMCIS (Od razu przekierowanie na stronę tych wydarzeń, jest na oryginalnym plais.org więc nie powinno to zająć zbyt dużo czasu)
--- W Sukcesach wszystkie te zdjęcia z wygranych trzeba ładnie zrobić, żeby to jakoś wyglądało.
--- W zasobach jest dużo podstron, z dużą ilością linków, ale wszystko jest na szczęście na plais.org
--- W zakładce o nas trzeba dać strony z kontaktem i Join Us, i jak już powstanie strona do kontaktu, to na stopce strony też trzeba dać odnośnik.
--- I jak ktoś ma pomysł to może powiedzieć gdzie wrzucamy list do Profesora i ten NTIE.
+Wszystkie podstrony + trzeba zrobić rozwijane menu w którym będzie można to wszystko wybrać + nie musicie się przejmować kolorami niczego bo wszystko jest w navbar.css:
+- W członkach - Obecni Członkowie i Founding Members cokolwiek by to znaczyło + Rada Nadzorcza
+- W wydarzeniach PLAIS - EuroSymposium, ICTM, EMCIS (Od razu przekierowanie na stronę tych wydarzeń, jest na oryginalnym plais.org więc nie powinno to zająć zbyt dużo czasu)
+- W Sukcesach wszystkie te zdjęcia z wygranych trzeba ładnie zrobić, żeby to jakoś wyglądało.
+- W zasobach jest dużo podstron, z dużą ilością linków, ale wszystko jest na szczęście na plais.org
+- W zakładce o nas trzeba dać strony z kontaktem i Join Us, i jak już powstanie strona do kontaktu, to na stopce strony też trzeba dać odnośnik.
+- I jak ktoś ma pomysł to może powiedzieć gdzie wrzucamy list do Profesora i ten NTIE.
 
 Generalnie ta strona nie będzie miała żadnego panelu administracyjnego, ani back-endu, więc po prostu róbmy ją jak taką stronę wizytówkę.
 
