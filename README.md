@@ -18,3 +18,5 @@ Generalnie ta strona nie będzie miała żadnego panelu administracyjnego, ani b
 Bootstrap ma dość rozbudowaną ale prostą dokumentację + ma tam pełno wzorców projektowych, które wystarczy zobaczyć i od razu wiadomo o co chodzi, także w razie wątpliwości polecam poszukać w niej, a jak nie, to zapraszam na stacka.
 
 I jeśli ktoś będzie miał jakieś pytania, to jestem na fejsie praktycznie 24/7, jutro się też zgadamy i wszystko dogadamy dokładniej, bo widzę też, że jeszcze nie jest idealnie jeśli chodzi o tą stronę.
+
+- Dodałem jeszcze plik Anothersite.html, który pozwoli wszystko przyśpieszyć.
