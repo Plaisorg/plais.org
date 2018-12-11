@@ -1,6 +1,10 @@
 # plais.org
 Strona THE POLISH CHAPTER OF ASSOCIATION FOR INFORMATION SYSTEMS – PLAIS
 
+WYMAGANIA:
+
+- Notepad++
+
 DO ZROBIENIA:
 Wszystkie podstrony + trzeba zrobić rozwijane menu w którym będzie można to wszystko wybrać + nie musicie się przejmować kolorami niczego bo wszystko jest w navbar.css:
 - W członkach - Obecni Członkowie i Founding Members cokolwiek by to znaczyło + Rada Nadzorcza
