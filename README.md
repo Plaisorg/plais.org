@@ -1,6 +1,8 @@
 # plais.org
 Strona THE POLISH CHAPTER OF ASSOCIATION FOR INFORMATION SYSTEMS – PLAIS
 
+11.12.2018r.
+
 WYMAGANIA:
 
 - Notepad++
@@ -23,4 +25,5 @@ Bootstrap ma dość rozbudowaną ale prostą dokumentację + ma tam pełno wzorc
 
 I jeśli ktoś będzie miał jakieś pytania, to jestem na fejsie praktycznie 24/7, jutro się też zgadamy i wszystko dogadamy dokładniej, bo widzę też, że jeszcze nie jest idealnie jeśli chodzi o tą stronę.
 
+12.12.2018r.
 - Dodałem jeszcze plik Anothersite.html, który pozwoli wszystko przyśpieszyć.
