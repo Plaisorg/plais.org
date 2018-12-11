@@ -12,8 +12,8 @@ Wszystkie podstrony + trzeba zrobić rozwijane menu w którym będzie można to 
 
 Generalnie ta strona nie będzie miała żadnego panelu administracyjnego, ani back-endu, więc po prostu róbmy ją jak taką stronę wizytówkę.
 
-Jak zacząć z Bootstrapem: https://getbootstrap.com/docs/4.0/getting-started/introduction/
-Jak zrobić rozwijane menu: https://getbootstrap.com/docs/4.0/components/navbar/
+- Jak zacząć z Bootstrapem: https://getbootstrap.com/docs/4.0/getting-started/introduction/
+- Jak zrobić rozwijane menu: https://getbootstrap.com/docs/4.0/components/navbar/
 
 Bootstrap ma dość rozbudowaną ale prostą dokumentację + ma tam pełno wzorców projektowych, które wystarczy zobaczyć i od razu wiadomo o co chodzi, także w razie wątpliwości polecam poszukać w niej, a jak nie, to zapraszam na stacka.
 
