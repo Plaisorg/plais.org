@@ -27,4 +27,4 @@ I jeśli ktoś będzie miał jakieś pytania, to jestem na fejsie praktycznie 24
 12.12.2018r.
 -----------------------------------------------------
 - Dodałem jeszcze plik Anothersite.html, który pozwoli wszystko przyśpieszyć.
-- Zrobiłem jeszcze jedną rzecz ''' Łukasz '''
+- Zrobiłem jeszcze jedną rzecz ``` Łukasz ```
