@@ -8,7 +8,7 @@ WYMAGANIA:
 - Notepad++
 
 DO ZROBIENIA:
-Wszystkie podstrony + nie musicie się przejmować kolorami niczego bo wszystko jest w navbar.css:
+Wszystkie podstrony:
 - W członkach - Obecni Członkowie i Founding Members cokolwiek by to znaczyło + Rada Nadzorcza
 - W wydarzeniach PLAIS - EuroSymposium, ICTM, EMCIS (Od razu przekierowanie na stronę tych wydarzeń, jest na oryginalnym plais.org więc nie powinno to zająć zbyt dużo czasu) /Zrobione
 - W Sukcesach wszystkie te zdjęcia z wygranych trzeba ładnie zrobić, żeby to jakoś wyglądało.
