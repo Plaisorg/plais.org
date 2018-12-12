@@ -10,7 +10,7 @@ WYMAGANIA:
 DO ZROBIENIA:
 Wszystkie podstrony:
 - W członkach - Obecni Członkowie i Founding Members cokolwiek by to znaczyło + Rada Nadzorcza
-- W wydarzeniach PLAIS - EuroSymposium, ICTM, EMCIS (Od razu przekierowanie na stronę tych wydarzeń, jest na oryginalnym plais.org więc nie powinno to zająć zbyt dużo czasu) ```diff +Zrobione ```
+- W wydarzeniach PLAIS - EuroSymposium, ICTM, EMCIS (Od razu przekierowanie na stronę tych wydarzeń, jest na oryginalnym plais.org więc nie powinno to zająć zbyt dużo czasu) ```diff Zrobione ```
 - W Sukcesach wszystkie te zdjęcia z wygranych trzeba ładnie zrobić, żeby to jakoś wyglądało.
 - W zasobach jest dużo podstron, z dużą ilością linków, ale wszystko jest na szczęście na plais.org
 - W zakładce o nas trzeba dać strony z kontaktem i Join Us, i jak już powstanie strona do kontaktu.
