@@ -36,15 +36,15 @@
   color: #ffffff;
   background-color: #304278;
 }
-.navbar .navbar-toggle {
+.navbar .navbar-toggler {
   border-color: #304278;
 }
-.navbar .navbar-toggle:hover,
-.navbar .navbar-toggle:focus {
+.navbar .navbar-toggler:hover,
+.navbar .navbar-toggler:focus {
   background-color: #304278;
 }
-.navbar .navbar-toggle .navbar-toggler-icon {
-  color: #e6edee;
+.navbar .navbar-toggler .navbar-toggler-icon {
+	color: #ffffff;
 }
 .navbar .navbar-collapse,
 .navbar .navbar-form {
