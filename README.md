@@ -16,9 +16,6 @@ Wszystkie podstrony:
 - W zakładce o nas trzeba dać strony z kontaktem i Join Us, i jak już powstanie strona do kontaktu.
 - I jak ktoś ma pomysł to może powiedzieć gdzie wrzucamy list do Profesora i ten NTIE.
 
-Techniczne rzeczy:
-- Rozwijane menu/Sidebar po lewej stronie zrobiony w taki sposób żeby się pokaz slajdów nie rozjeżdzał i nie nachodził, bez znaczenia czy będzie jako overlay na karuzelę, czy jako canvas-push, czy jako fixed-left, byleby, żeby się strona nie rozjeżdzała i zachowała responsywność, co nie jest takie proste xD 
-
 Generalnie ta strona nie będzie miała żadnego panelu administracyjnego, ani back-endu, więc po prostu róbmy ją jak taką stronę wizytówkę.
 
 - Jak zacząć z Bootstrapem: https://getbootstrap.com/docs/4.0/getting-started/introduction/
