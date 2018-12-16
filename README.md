@@ -34,7 +34,6 @@ I jeśli ktoś będzie miał jakieś pytania, to jestem na fejsie praktycznie 24
 -----------------------------------------------------
 - Przerobiona templatka ``` Błażej ```
 - Dodana responsywność do templatki i strony głównej (wyskalowane jedno zdjęcie żeby miało takie samo aspect ratio jak pozostałe i się nie rozjeżdzało, zmieniony navbar i stopka) ``` Łukasz ```
-- Dodane do listy zadań: Rozwijane menu, po lewej stronie, jak pan Profesor powiedział 
 
 -----------------------------------------------------
 14.12.2018r.
