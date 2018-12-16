@@ -43,7 +43,7 @@ I jeśli ktoś będzie miał jakieś pytania, to jestem na fejsie praktycznie 24
 -----------------------------------------------------
 15.12.2018r.
 -----------------------------------------------------
-- Roziwjane menu (z ikoną) ``` Łukasz Szafrański ```
+- Rozwijane menu (z ikoną) ``` Łukasz Szafrański ```
 - poprawienie index.html i usunięcie z niej zdjęć, zmiana języka menu na angielski, dodanie odnośnika na zdjęciu loga experta do panelu administracyjnego w przyszłości. ``` Łukasz Szafrański ```
 - Dodanie do templatki menu w języku angielskim + logo experta z odnośnikiem ``` Łukasz Szafrański ```
 - zrobienie strony bylaws.html ``` Łukasz Szafrański ```
