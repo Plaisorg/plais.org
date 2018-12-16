@@ -27,15 +27,25 @@ I jeśli ktoś będzie miał jakieś pytania, to jestem na fejsie praktycznie 24
 12.12.2018r.
 -----------------------------------------------------
 - Dodałem jeszcze plik Anothersite.html, który pozwoli wszystko przyśpieszyć.
-- Zrobiłem jeszcze jedną rzecz ``` Łukasz ```
+- Zrobiłem jeszcze jedną rzecz ``` Łukasz Szafrański```
 
 -----------------------------------------------------
 13.12.2018r.
 -----------------------------------------------------
-- Przerobiona templatka ``` Błażej ```
-- Dodana responsywność do templatki i strony głównej (wyskalowane jedno zdjęcie żeby miało takie samo aspect ratio jak pozostałe i się nie rozjeżdzało, zmieniony navbar i stopka) ``` Łukasz ```
+- Przerobiona templatka ``` Błażej Tempski```
+- Dodana responsywność do templatki i strony głównej (wyskalowane jedno zdjęcie żeby miało takie samo aspect ratio jak pozostałe i się nie rozjeżdzało, zmieniony navbar i stopka) ``` Łukasz Szafrański ```
 
 -----------------------------------------------------
 14.12.2018r.
 -----------------------------------------------------
-- Rozwijane menu, na razie bez ikony (Responsywność), poprawienie css'a ``` Łukasz ```
+- Rozwijane menu, na razie bez ikony (Responsywność), poprawienie css'a ``` Łukasz Szafrański ```
+
+-----------------------------------------------------
+15.12.2018r.
+-----------------------------------------------------
+- Roziwjane menu (z ikoną) ``` Łukasz Szafrański ```
+- poprawienie index.html i usunięcie z niej zdjęć, zmiana języka menu na angielski, dodanie odnośnika na zdjęciu loga experta do panelu administracyjnego w przyszłości. ``` Łukasz Szafrański ```
+- Dodanie do templatki menu w języku angielskim + logo experta z odnośnikiem ``` Łukasz Szafrański ```
+- zrobienie strony bylaws.html ``` Łukasz Szafrański ```
+- Zrobienie strony bulletins.html ``` Mateusz Kusiak```
+- Zrobienie 100 stron biuletynów, z oddzielnym folderem, z funkcjonalnością otwierania kolejnego okna po wciśnięciu ``` Mateusz Kusiak ```
