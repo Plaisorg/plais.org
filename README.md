@@ -36,9 +36,7 @@ I jeśli ktoś będzie miał jakieś pytania, to jestem na fejsie praktycznie 24
 -----------------------------------------------------
 12.12.2018r.
 -----------------------------------------------------
-- Dodałem jeszcze plik Anothersite.html, który pozwoli wszystko przyśpieszyć.
-- Zrobiłem jeszcze jedną rzecz ``` Łukasz Szafrański```
-
+- Dodałem templatka o nazwie anothersite.html ```Łukasz Szafrański```
 -----------------------------------------------------
 13.12.2018r.
 -----------------------------------------------------
@@ -49,7 +47,6 @@ I jeśli ktoś będzie miał jakieś pytania, to jestem na fejsie praktycznie 24
 14.12.2018r.
 -----------------------------------------------------
 - Rozwijane menu, na razie bez ikony (Responsywność), poprawienie css'a ``` Łukasz Szafrański ```
-
 -----------------------------------------------------
 15.12.2018r.
 -----------------------------------------------------
