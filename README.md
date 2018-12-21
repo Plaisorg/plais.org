@@ -20,10 +20,10 @@ Wszystkie podstrony:
 - I jak ktoś ma pomysł to może powiedzieć gdzie wrzucamy list do Profesora i ten NTIE. ```Do omówienia```
 
 # PODZIAŁ OBOWIĄZKÓW:
-- currentMembers.html, foundingMembers.html ```Mateusz Kusiak```
-- publications.html, aisResources.html, documents.html ```Błażej Tempski```
-- conferences.html, plaisResources.html, links.html ```Damian Goleniewski```
-- successes.html, joinUs.html, contact.html ```Łukasz Szafrański```
+- currentMembers.html, foundingMembers.html ```Mateusz Kusiak``` ``` Zrobione ```
+- publications.html, aisResources.html, documents.html ```Błażej Tempski``` ```2/3```
+- conferences.html, plaisResources.html, links.html ```Damian Goleniewski``` ```0/3```
+- successes.html, joinUs.html, contact.html ```Łukasz Szafrański``` ```2/3```
 
 Generalnie ta strona nie będzie miała żadnego panelu administracyjnego, ani back-endu, więc po prostu róbmy ją jak taką stronę wizytówkę.
 
@@ -65,3 +65,10 @@ I jeśli ktoś będzie miał jakieś pytania, to jestem na fejsie praktycznie 24
 -----------------------------------------------------
 - Poprawienie hrefów w index.html i innych podstronach na dobre podstrony (Z polskich na angielskie nazewnictwo) ```Łukasz Szafrański```
 - Dodanie stron joinUs.html, contact.html i jednego loga ```Łukasz Szafrański```
+
+-----------------------------------------------------
+21.12.2018r.
+-----------------------------------------------------
+- Uporządkowanie plików - PLAIS AKTUALNY - ``` Łukasz Szafrański ```
+- Dodanie strony currentMembers.html oraz foundingMembers.html ``` Mateusz Kusiak ```
+- Dodanie strony aisResources.html oraz publications.html ``` Błażej Tempski ```
