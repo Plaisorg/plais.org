@@ -1,8 +1,11 @@
 - ```NAJBLIŻSZE SPOTKANIE: 3.01.2019r., do ustalenia (Wstępnie 17:00)```
-- ```DEADLINE: 31.01.2019r.```
-
+- ```DEADLINE DLA FRONT-ENDU: 31.01.2019r.``` ```UKOŃCZONE 22.12.2018r. :D```
+- ```DEADLINE DLA BACK-ENDU: 31.01.2019r.```
 # plais.org
 Strona THE POLISH CHAPTER OF ASSOCIATION FOR INFORMATION SYSTEMS – PLAIS
+
+# FRONT-END - 100% - START: 11.12.2018r. UKOŃCZONA: 22.12.2018r.
+# BACK-END - 5% - START: 22.12.2018r. 
 -----------------------------------------------------
 11.12.2018r.
 -----------------------------------------------------
@@ -15,7 +18,7 @@ Wszystkie podstrony:
 - W członkach - Obecni Członkowie i Founding Members cokolwiek by to znaczyło + Rada Nadzorcza ```Zrobione```
 - W wydarzeniach PLAIS - EuroSymposium, ICTM, EMCIS (Od razu przekierowanie na stronę tych wydarzeń, jest na oryginalnym plais.org więc nie powinno to zająć zbyt dużo czasu) ``` Zrobione ```
 - W Sukcesach wszystkie te zdjęcia z wygranych trzeba ładnie zrobić, żeby to jakoś wyglądało. ```Zrobione```
-- W zasobach jest dużo podstron, z dużą ilością linków, ale wszystko jest na szczęście na plais.org ```W trakcie```
+- W zasobach jest dużo podstron, z dużą ilością linków, ale wszystko jest na szczęście na plais.org ```Zrobione```
 - W zakładce o nas trzeba dać strony z kontaktem i Join Us, i jak już powstanie strona do kontaktu. ```Zrobione```
 - I jak ktoś ma pomysł to może powiedzieć gdzie wrzucamy list do Profesora i ten NTIE. ```Zrobione```
 - ZMIANA LOGA ```DO DALSZEGO OMÓWIENIA```
@@ -27,8 +30,8 @@ Wszystkie podstrony:
 - successes.html, joinUs.html, contact.html ```Łukasz Szafrański``` ```Zrobione```
 
 # PODZIAŁ OBOWIĄZKÓW 22.12.2018r.:
-- Dodanie Letters do navbaru, letters.html lettersCongratulations.html i dodanie go do każdej podstrony. ```Mateusz Kusiak```
-- Dodanie aktywacji do konkretnych zakładek z rozwijanego menu ```KAŻDY``` ```7/11```
+- Dodanie Letters do navbaru, letters.html lettersCongratulations.html i dodanie go do każdej podstrony. ```KAŻDY``` ```Zrobione``` 
+- Dodanie aktywacji do konkretnych zakładek z rozwijanego menu ```KAŻDY``` ```Zrobione```
 
 -----------------------------------------------------
 
@@ -84,5 +87,7 @@ I jeśli ktoś będzie miał jakieś pytania, to jestem na fejsie praktycznie 24
 22.12.2018r.
 -----------------------------------------------------
 - Dodanie strony successes.html, ntie.html oraz administrationPanel.html + assety ```Łukasz Szafrański```
-- Dodanie strony conferences.html, links.html, poprawionego executiveBoard.html oraz exeboard.css ```Damian Goleniewski ```
+- Dodanie strony conferences.html, links.html, poprawionego executiveBoard.html, exeboard.css, oraz z 10 innych stron. ```Damian Goleniewski ```
 - Dodanie strony documents.html ```Błażej Tempski```
+- Poprawienie html'ów (acive'y + korekty w przestrzeni + zmiana menu), dodanie listów i doszlifowanie paru rzeczy. ```KAŻDY```
+
