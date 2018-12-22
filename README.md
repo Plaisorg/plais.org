@@ -22,8 +22,8 @@ Wszystkie podstrony:
 
 # PODZIAŁ OBOWIĄZKÓW 19.12.2018r.:
 - currentMembers.html, foundingMembers.html ```Mateusz Kusiak``` ``` Zrobione ```
-- publications.html, aisResources.html, documents.html ```Błażej Tempski``` ```2/3```
-- conferences.html, plaisResources.html, links.html ```Damian Goleniewski``` ```0/3```
+- publications.html, aisResources.html, documents.html ```Błażej Tempski``` ```Zrobione```
+- conferences.html, plaisResources.html, links.html ```Damian Goleniewski``` ```Zrobione```
 - successes.html, joinUs.html, contact.html ```Łukasz Szafrański``` ```Zrobione```
 
 # PODZIAŁ OBOWIĄZKÓW 22.12.2018r.:
@@ -84,4 +84,5 @@ I jeśli ktoś będzie miał jakieś pytania, to jestem na fejsie praktycznie 24
 22.12.2018r.
 -----------------------------------------------------
 - Dodanie strony successes.html, ntie.html oraz administrationPanel.html + assety ```Łukasz Szafrański```
-- Dodanie strony links.html, poprawionego executiveBoard.html oraz exeboard.css ```Damian Goleniewski ```
+- Dodanie strony conferences.html, links.html, poprawionego executiveBoard.html oraz exeboard.css ```Damian Goleniewski ```
+- Dodanie strony documents.html ```Błażej Tempski```
