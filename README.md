@@ -6,6 +6,9 @@ Strona THE POLISH CHAPTER OF ASSOCIATION FOR INFORMATION SYSTEMS – PLAIS
 
 # FRONT-END - 100% - START: 11.12.2018r. UKOŃCZONA: 22.12.2018r.
 # BACK-END - 5% - START: 22.12.2018r. 
+
+
+# FRONT-END:
 -----------------------------------------------------
 11.12.2018r.
 -----------------------------------------------------
@@ -91,3 +94,8 @@ I jeśli ktoś będzie miał jakieś pytania, to jestem na fejsie praktycznie 24
 - Dodanie strony documents.html ```Błażej Tempski```
 - Poprawienie html'ów (acive'y + korekty w przestrzeni + zmiana menu), dodanie listów i doszlifowanie paru rzeczy. ```KAŻDY```
 
+# BACK-END:
+-----------------------------------------------------
+22.12.2018r.
+-----------------------------------------------------
+- administrationPanel.html + signin.css ```Łukasz Szafrański```
