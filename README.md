@@ -12,9 +12,9 @@ Strona THE POLISH CHAPTER OF ASSOCIATION FOR INFORMATION SYSTEMS – PLAIS
 
 # DO ZROBIENIA:
 Wszystkie podstrony:
-- W członkach - Obecni Członkowie i Founding Members cokolwiek by to znaczyło + Rada Nadzorcza ```W trakcie```
+- W członkach - Obecni Członkowie i Founding Members cokolwiek by to znaczyło + Rada Nadzorcza ```Zrobione```
 - W wydarzeniach PLAIS - EuroSymposium, ICTM, EMCIS (Od razu przekierowanie na stronę tych wydarzeń, jest na oryginalnym plais.org więc nie powinno to zająć zbyt dużo czasu) ``` Zrobione ```
-- W Sukcesach wszystkie te zdjęcia z wygranych trzeba ładnie zrobić, żeby to jakoś wyglądało. ```W trakcie```
+- W Sukcesach wszystkie te zdjęcia z wygranych trzeba ładnie zrobić, żeby to jakoś wyglądało. ```Zrobione```
 - W zasobach jest dużo podstron, z dużą ilością linków, ale wszystko jest na szczęście na plais.org ```W trakcie```
 - W zakładce o nas trzeba dać strony z kontaktem i Join Us, i jak już powstanie strona do kontaktu. ```Zrobione```
 - I jak ktoś ma pomysł to może powiedzieć gdzie wrzucamy list do Profesora i ten NTIE. ```Zrobione```
