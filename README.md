@@ -23,7 +23,7 @@ Wszystkie podstrony:
 - currentMembers.html, foundingMembers.html ```Mateusz Kusiak``` ``` Zrobione ```
 - publications.html, aisResources.html, documents.html ```Błażej Tempski``` ```2/3```
 - conferences.html, plaisResources.html, links.html ```Damian Goleniewski``` ```0/3```
-- successes.html, joinUs.html, contact.html ```Łukasz Szafrański``` ```2/3```
+- successes.html, joinUs.html, contact.html ```Łukasz Szafrański``` ```Zrobione```
 
 Generalnie ta strona nie będzie miała żadnego panelu administracyjnego, ani back-endu, więc po prostu róbmy ją jak taką stronę wizytówkę.
 
@@ -72,3 +72,8 @@ I jeśli ktoś będzie miał jakieś pytania, to jestem na fejsie praktycznie 24
 - Uporządkowanie plików - PLAIS AKTUALNY - ``` Łukasz Szafrański ```
 - Dodanie strony currentMembers.html oraz foundingMembers.html ``` Mateusz Kusiak ```
 - Dodanie strony aisResources.html oraz publications.html ``` Błażej Tempski ```
+
+-----------------------------------------------------
+22.12.2018r.
+-----------------------------------------------------
+- Dodanie strony successes.html ```Łukasz Szafrański```
