@@ -25,6 +25,7 @@ Wszystkie podstrony:
 - W zakładce o nas trzeba dać strony z kontaktem i Join Us, i jak już powstanie strona do kontaktu. ```Zrobione```
 - I jak ktoś ma pomysł to może powiedzieć gdzie wrzucamy list do Profesora i ten NTIE. ```Zrobione```
 - ZMIANA LOGA ```DO DALSZEGO OMÓWIENIA```
+- Ostateczne szlify ```W trakcie, ale wszystko jest raczej w porządku :D```
 
 # PODZIAŁ OBOWIĄZKÓW 19.12.2018r.:
 - currentMembers.html, foundingMembers.html ```Mateusz Kusiak``` ``` Zrobione ```
@@ -37,8 +38,6 @@ Wszystkie podstrony:
 - Dodanie aktywacji do konkretnych zakładek z rozwijanego menu ```KAŻDY``` ```Zrobione```
 
 -----------------------------------------------------
-
-Generalnie ta strona nie będzie miała żadnego panelu administracyjnego, ani back-endu, więc po prostu róbmy ją jak taką stronę wizytówkę.
 
 - Jak zacząć z Bootstrapem: https://getbootstrap.com/docs/4.0/getting-started/introduction/
 
@@ -93,8 +92,26 @@ I jeśli ktoś będzie miał jakieś pytania, to jestem na fejsie praktycznie 24
 - Dodanie strony conferences.html, links.html, poprawionego executiveBoard.html, exeboard.css, oraz z 10 innych stron. ```Damian Goleniewski ```
 - Dodanie strony documents.html ```Błażej Tempski```
 - Poprawienie html'ów (acive'y + korekty w przestrzeni + zmiana menu), dodanie listów i doszlifowanie paru rzeczy. ```KAŻDY```
-
+-----------------------------------------------------
 # BACK-END:
+-----------------------------------------------------
+
+Na samym początku ta strona nie miała mieć żadnego back-endu, ale możemy spróbować zrobić panel administracyjny, z możliwością zmiany całej zawartości prosto ze strony internetowej, zamiast z html'a.
+
+# WYMAGANIA:
+
+- Tak samo jak dla front-endu - Notepad++ albo osobne IDE.
+
+# JĘZYKI:
+
+- PHP oraz MySQL.
+
+# DO ZROBIENIA:
+- Strona logowania do panelu administracyjnego. ```Zrobione```
+- Zrobienie dashboarda dla administratora. ```W trakcie```
+- Podpięcie strony pod bazę danych (domyślnie mySQL'a.) ```W trakcie```
+- Dodanie funkcjonalności. ```W trakcie```
+
 -----------------------------------------------------
 22.12.2018r.
 -----------------------------------------------------
