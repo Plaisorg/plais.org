@@ -76,4 +76,4 @@ I jeśli ktoś będzie miał jakieś pytania, to jestem na fejsie praktycznie 24
 -----------------------------------------------------
 22.12.2018r.
 -----------------------------------------------------
-- Dodanie strony successes.html ```Łukasz Szafrański```
+- Dodanie strony successes.html oraz ntie.html ```Łukasz Szafrański```
