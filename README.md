@@ -18,6 +18,7 @@ Wszystkie podstrony:
 - W zasobach jest dużo podstron, z dużą ilością linków, ale wszystko jest na szczęście na plais.org ```W trakcie```
 - W zakładce o nas trzeba dać strony z kontaktem i Join Us, i jak już powstanie strona do kontaktu. ```Zrobione```
 - I jak ktoś ma pomysł to może powiedzieć gdzie wrzucamy list do Profesora i ten NTIE. ```Zrobione```
+- ZMIANA LOGA ```DO DALSZEGO OMÓWIENIA```
 
 # PODZIAŁ OBOWIĄZKÓW 19.12.2018r.:
 - currentMembers.html, foundingMembers.html ```Mateusz Kusiak``` ``` Zrobione ```
@@ -28,7 +29,6 @@ Wszystkie podstrony:
 # PODZIAŁ OBOWIĄZKÓW 22.12.2018r.:
 - Dodanie Letters do navbaru, letters.html lettersCongratulations.html i dodanie go do każdej podstrony. ```Mateusz Kusiak```
 - Dodanie aktywacji do konkretnych zakładek z rozwijanego menu ```KAŻDY```
-- Przerobienie loga na logo z napisem.
 
 Generalnie ta strona nie będzie miała żadnego panelu administracyjnego, ani back-endu, więc po prostu róbmy ją jak taką stronę wizytówkę.
 
