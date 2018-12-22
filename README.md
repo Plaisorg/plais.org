@@ -17,13 +17,17 @@ Wszystkie podstrony:
 - W Sukcesach wszystkie te zdjęcia z wygranych trzeba ładnie zrobić, żeby to jakoś wyglądało. ```W trakcie```
 - W zasobach jest dużo podstron, z dużą ilością linków, ale wszystko jest na szczęście na plais.org ```W trakcie```
 - W zakładce o nas trzeba dać strony z kontaktem i Join Us, i jak już powstanie strona do kontaktu. ```Zrobione```
-- I jak ktoś ma pomysł to może powiedzieć gdzie wrzucamy list do Profesora i ten NTIE. ```Do omówienia```
+- I jak ktoś ma pomysł to może powiedzieć gdzie wrzucamy list do Profesora i ten NTIE. ```Zrobione```
 
-# PODZIAŁ OBOWIĄZKÓW:
+# PODZIAŁ OBOWIĄZKÓW 19.12.2018r.:
 - currentMembers.html, foundingMembers.html ```Mateusz Kusiak``` ``` Zrobione ```
 - publications.html, aisResources.html, documents.html ```Błażej Tempski``` ```2/3```
 - conferences.html, plaisResources.html, links.html ```Damian Goleniewski``` ```0/3```
 - successes.html, joinUs.html, contact.html ```Łukasz Szafrański``` ```Zrobione```
+
+# PODZIAŁ OBOWIĄZKÓW 22.12.2018r.:
+- Dodanie Letters do navbaru, letters.html lettersCongratulations.html i dodanie go do każdej podstrony. ```Mateusz Kusiak```
+- Dodanie aktywacji do konkretnych zakładek z rozwijanego menu ```KAŻDY```
 
 Generalnie ta strona nie będzie miała żadnego panelu administracyjnego, ani back-endu, więc po prostu róbmy ją jak taką stronę wizytówkę.
 
