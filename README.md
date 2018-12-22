@@ -30,6 +30,8 @@ Wszystkie podstrony:
 - Dodanie Letters do navbaru, letters.html lettersCongratulations.html i dodanie go do każdej podstrony. ```Mateusz Kusiak```
 - Dodanie aktywacji do konkretnych zakładek z rozwijanego menu ```KAŻDY```
 
+-----------------------------------------------------
+
 Generalnie ta strona nie będzie miała żadnego panelu administracyjnego, ani back-endu, więc po prostu róbmy ją jak taką stronę wizytówkę.
 
 - Jak zacząć z Bootstrapem: https://getbootstrap.com/docs/4.0/getting-started/introduction/
