@@ -1,4 +1,4 @@
-- ```NAJBLIŻSZE SPOTKANIE: 22.12.2018r. o 17:00```
+- ```NAJBLIŻSZE SPOTKANIE: 3.01.2019r., do ustalenia (Wstępnie 17:00)```
 - ```DEADLINE: 31.01.2019r.```
 
 # plais.org
