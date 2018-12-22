@@ -28,7 +28,7 @@ Wszystkie podstrony:
 
 # PODZIAŁ OBOWIĄZKÓW 22.12.2018r.:
 - Dodanie Letters do navbaru, letters.html lettersCongratulations.html i dodanie go do każdej podstrony. ```Mateusz Kusiak```
-- Dodanie aktywacji do konkretnych zakładek z rozwijanego menu ```KAŻDY```
+- Dodanie aktywacji do konkretnych zakładek z rozwijanego menu ```KAŻDY``` ```7/11```
 
 -----------------------------------------------------
 
