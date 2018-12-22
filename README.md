@@ -83,4 +83,5 @@ I jeśli ktoś będzie miał jakieś pytania, to jestem na fejsie praktycznie 24
 -----------------------------------------------------
 22.12.2018r.
 -----------------------------------------------------
-- Dodanie strony successes.html, ntie.html oraz administrationPanel.html ```Łukasz Szafrański```
+- Dodanie strony successes.html, ntie.html oraz administrationPanel.html + assety ```Łukasz Szafrański```
+- Dodanie strony links.html, poprawionego executiveBoard.html oraz exeboard.css ```Damian Goleniewski ```
