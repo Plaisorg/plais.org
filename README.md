@@ -1,4 +1,4 @@
-- ```NAJBLIŻSZE SPOTKANIE: 3.01.2019r., do ustalenia (Wstępnie 17:00)```
+- ```NAJBLIŻSZE SPOTKANIE: ---
 - ```DEADLINE DLA FRONT-ENDU: 31.01.2019r.``` ```UKOŃCZONE 22.12.2018r. :D```
 - ```DEADLINE DLA BACK-ENDU: 31.01.2019r.```
 # plais.org
