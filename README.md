@@ -25,8 +25,7 @@ Wszystkie podstrony:
 - W zasobach jest dużo podstron, z dużą ilością linków, ale wszystko jest na szczęście na plais.org ```Zrobione```
 - W zakładce o nas trzeba dać strony z kontaktem i Join Us, i jak już powstanie strona do kontaktu. ```Zrobione```
 - I jak ktoś ma pomysł to może powiedzieć gdzie wrzucamy list do Profesora i ten NTIE. ```Zrobione```
-- ZMIANA LOGA ```DO DALSZEGO OMÓWIENIA```
-- Ostateczne szlify ```W trakcie, ale wszystko jest raczej w porządku :D```
+- Ostateczne szlify ```Zrobione```
 
 # PODZIAŁ OBOWIĄZKÓW 19.12.2018r.:
 - currentMembers.html, foundingMembers.html ```Mateusz Kusiak``` ``` Zrobione ```
