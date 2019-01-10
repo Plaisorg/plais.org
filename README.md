@@ -112,11 +112,12 @@ Na samym początku ta strona nie miała mieć żadnego back-endu, ale możemy sp
 
 # WYMAGANIA:
 
-- Tak samo jak dla front-endu - Notepad++ albo osobne IDE.
+- Visual Studio 
+- Znajomość zagadnień rozszerzonych z C# -> Obiektowość, Entity Framework, Testy też by nie zaszkodziły, ale w razie czego sam mogę część pisać.
 
 # JĘZYKI:
 
-- PHP oraz MySQL.
+- ASP.NET Core MVC
 
 # DO ZROBIENIA:
 - Strona logowania do panelu administracyjnego. ```Zrobione```
