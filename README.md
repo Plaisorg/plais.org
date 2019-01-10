@@ -122,7 +122,7 @@ Na samym początku ta strona nie miała mieć żadnego back-endu, ale możemy sp
 # DO ZROBIENIA:
 - Strona logowania do panelu administracyjnego. ```Zrobione```
 - Zrobienie dashboarda dla administratora. ```W trakcie```
-- Podpięcie strony pod bazę danych (domyślnie mySQL'a.) ```W trakcie```
+- Podpięcie strony pod bazę danych (Po deploymencie warstwy front-endowej)```W trakcie```
 - Dodanie funkcjonalności. ```W trakcie```
 
 -----------------------------------------------------
