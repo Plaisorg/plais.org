@@ -97,13 +97,13 @@ I jeśli ktoś będzie miał jakieś pytania, to jestem na fejsie praktycznie 24
 -----------------------------------------------------
 10.01.2019r.
 -----------------------------------------------------
-- Dodanie animacji do każdej strony.
-- Dodanie biblioteki AOS.
-- Footer na dole, we wszystkich sytuacjach.
-- Posprzątanie repozytorium.
-- Poprawienie index.html.
-- Dodanie footer.css oraz aos.css, aos.js
-
+- Dodanie animacji do każdej strony. ```Łukasz Szafrański```
+- Dodanie biblioteki AOS. ```Łukasz Szafrański```
+- Footer na dole, we wszystkich sytuacjach. ```Łukasz Szafrański```
+- Posprzątanie repozytorium. ```Łukasz Szafrański```
+- Poprawienie index.html. ```Łukasz Szafrański```
+- Dodanie footer.css oraz aos.css, aos.js ```Łukasz Szafrański```
+- Wiele innych poprawek. ```Łukasz Szafrański```
 -----------------------------------------------------
 # BACK-END:
 -----------------------------------------------------
