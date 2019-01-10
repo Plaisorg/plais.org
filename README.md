@@ -5,6 +5,7 @@
 Strona THE POLISH CHAPTER OF ASSOCIATION FOR INFORMATION SYSTEMS – PLAIS
 
 # FRONT-END - 100% - START: 11.12.2018r. UKOŃCZONA: 22.12.2018r.
+# FRONT-END+ - START: 10.01.2019r. UKOŃCZONY - 10.01.2019r.
 # BACK-END - 5% - START: 22.12.2018r. 
 
 
@@ -92,6 +93,17 @@ I jeśli ktoś będzie miał jakieś pytania, to jestem na fejsie praktycznie 24
 - Dodanie strony conferences.html, links.html, poprawionego executiveBoard.html, exeboard.css, oraz z 10 innych stron. ```Damian Goleniewski ```
 - Dodanie strony documents.html ```Błażej Tempski```
 - Poprawienie html'ów (acive'y + korekty w przestrzeni + zmiana menu), dodanie listów i doszlifowanie paru rzeczy. ```KAŻDY```
+
+-----------------------------------------------------
+10.01.2019r.
+-----------------------------------------------------
+- Dodanie animacji do każdej strony.
+- Dodanie biblioteki AOS.
+- Footer na dole, we wszystkich sytuacjach.
+- Posprzątanie repozytorium.
+- Poprawienie index.html.
+- Dodanie footer.css oraz aos.css, aos.js
+
 -----------------------------------------------------
 # BACK-END:
 -----------------------------------------------------
