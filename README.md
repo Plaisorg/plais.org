@@ -1,4 +1,4 @@
-- ```NAJBLIŻSZE SPOTKANIE: Po sesji najszybciej xD```
+- ```NAJBLIŻSZE SPOTKANIE: Po sesji najszybciej```
 - ```DEADLINE DLA FRONT-ENDU: 31.01.2019r.``` ```UKOŃCZONE 22.12.2018r.```
 - ```DEADLINE DLA BACK-ENDU: Koniec II semestru```
 # plais.org
